@@ -13,3 +13,5 @@ url. Duas condições são importantes: </p>
 
 <p>Para separar as sentenças você pode usar os sinais de pontuação ou as funções da biblibioteca
 Spacy.</p>
+
+<a href="https://colab.research.google.com/drive/1_rTXgNFbHc_eWFj2bfVjbbn0qquAXv7y?usp=sharing">Link para o projeto no Google Colaboratory</a>
